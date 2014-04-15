@@ -1,8 +1,7 @@
 <?php
 
 $_ADDONLANG['intro'] = "This addon allows you to automatically issue promotions to your Facebook fans.";
-$_ADDONLANG['description'] = '<a href="http://go.zingiri.com/dl.php?type=d&id=37" target="_blank">Documentation</a>';
-$_ADDONLANG['documentation'] = "Find out more at <a href=\"http://www.zingiri.com\" target=\"_blank\">Zingiri</a>";
+$_ADDONLANG['documentation'] = "Find out more at <a href=\"http://www.choppedcode.com\" target=\"_blank\">ChoppedCode</a>";
 $_ADDONLANG['notliked'] = "Please click on the Like button to view the promotions!";
 $_ADDONLANG['login'] = "Please login to Facebook to view the promotions!";
 $_ADDONLANG['liked'] = "Use these promotion codes when ordering our products:<br />";

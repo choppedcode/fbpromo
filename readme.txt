@@ -1,8 +1,16 @@
-To install, FTP the zip file to your server in the WHMCS addons directory and unzip on your server.
+The addon comes in the form of a zip file.
+ To install the addon, there are 2 ways of doing so:
+
+1) First method: FTP the zip file to your server in the WHMCS modules/addons directory and unzip it there. This can usually be done using modern FTP tools such as Filezilla or even using the cPanel File Manager if you have a cPanel hosting account.
+
+2) Second method: Unzip the files locally on your PC and then transfer the files in binary mode using FTP. Make sure the transfer mode is set to binary or you will have messages saying the files are corrupt when you try to activate or use the addon.
+To activate the addon, go to Setup > Addon Modules in WHMCS. This will display a list of all installed addons, amongst which you will see the Facebook Promotions addon.
+￼
+Make sure you tick the ‘Full Administrator’ access control flag. 
+
+Click ‘Save Changes’ at the bottom of the page when you’re done.
 
 Enjoy the module!
-
-For support, simply go to http://www.zingiri.com/portal and log a ticket.
 
 === Changelog ===
 

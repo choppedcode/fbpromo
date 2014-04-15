@@ -10,7 +10,7 @@ function fbpromo_config() {
     "name" => "Facebook Promotions",
     "description" => "This addon allows you to automatically issue promotions to your Facebook fans.",
     "version" => "1.3.0",
-    "author" => "Zingiri",
+    "author" => "ChoppedCode",
     "language" => "english",
     "fields" => array(
         "promo_text" => array("FriendlyName" => "Promotion text", "Type" => "text", "Size" => "120", "Description" => "Enter HTML text here to be displayed on your ordering pages, advertising your promotions and discounts."),
@@ -148,7 +148,7 @@ function fbpromo_output($vars) {
 	echo '<p align="center"><input type="submit" name="save-settings" value="'.$vars['_lang']['admin2'].'" /></p>';
 
 	echo '</form>';
-	echo '<hr /><p>'.$vars['_lang']['intro'].'</p><p>'.$vars['_lang']['description'].'</p><p>'.$vars['_lang']['documentation'].'</p>';
+	echo '<hr /><p>'.$vars['_lang']['intro'].'</p>';
 }
 
 function fbpromo_message($message,$type='debug') {
