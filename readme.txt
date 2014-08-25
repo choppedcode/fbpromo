@@ -9,9 +9,14 @@ Make sure you tick the ‘Full Administrator’ access control flag.
 
 Click ‘Save Changes’ at the bottom of the page when you’re done.
 
+To set up the module, please refer to the included [documentation](Documentation.pdf).
+
 Enjoy the module!
 
 === Changelog ===
+
+= v1.3.1 =
+* Add documentation
 
 = v1.3.0 =
 * Released under GPL

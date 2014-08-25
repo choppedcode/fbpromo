@@ -9,7 +9,7 @@ function fbpromo_config() {
 	$configarray = array(
     "name" => "Facebook Promotions",
     "description" => "This addon allows you to automatically issue promotions to your Facebook fans.",
-    "version" => "1.3.0",
+    "version" => "1.3.1",
     "author" => "ChoppedCode",
     "language" => "english",
     "fields" => array(
